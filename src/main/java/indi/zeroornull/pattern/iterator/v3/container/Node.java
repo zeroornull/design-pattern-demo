@@ -1,4 +1,4 @@
-package com.bravo.pattern.iterator.v3.container;
+package indi.zeroornull.pattern.iterator.v3.container;
 
 public class Node<E> {
     // public，需要暴露实现

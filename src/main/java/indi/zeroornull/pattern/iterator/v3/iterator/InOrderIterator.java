@@ -1,9 +1,10 @@
-package com.bravo.pattern.iterator.v3.iterator;
+package indi.zeroornull.pattern.iterator.v3.iterator;
 
-import com.bravo.pattern.iterator.v3.container.Node;
-import com.bravo.pattern.iterator.v3.container.BinarySearchTree;
+import indi.zeroornull.pattern.iterator.v3.container.BinarySearchTree;
+import indi.zeroornull.pattern.iterator.v3.container.Node;
 
 import java.util.Stack;
+
 
 public class InOrderIterator<E extends Comparable<E>> implements Iterator<E> {
     private final Stack<Node<E>> stack;

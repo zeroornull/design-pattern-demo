@@ -1,4 +1,4 @@
-package com.bravo.pattern.iterator.v1.iterator;
+package indi.zeroornull.pattern.iterator.v1.iterator;
 
 public interface Iterator<E> {
 

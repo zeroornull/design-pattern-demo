@@ -1,4 +1,4 @@
-package com.bravo.pattern.iterator.v3.iterator;
+package indi.zeroornull.pattern.iterator.v3.iterator;
 
 public interface Iterator<E> {
     boolean hasNext();
