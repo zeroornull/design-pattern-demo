@@ -2,8 +2,9 @@ package indi.zeroornull.pattern.observer.springevent;
 
 import indi.zeroornull.pattern.observer.springevent.event.Event;
 import indi.zeroornull.pattern.observer.springevent.listener.Listener;
+import jakarta.annotation.Nullable;
 
-import javax.annotation.Nullable;
+
 import java.util.Collections;
 import java.util.LinkedHashSet;
 import java.util.Set;
